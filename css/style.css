@@ -1,0 +1,108 @@
+:root {
+    background-color: rgb(210, 235, 255);
+
+}
+
+html {
+    scroll-behavior: smooth;
+    color: #00134f;
+    width: min(1000px,99%);
+    margin: auto;
+    font-size:x-large;
+    
+}
+
+
+.top {
+
+    background-color: #2494d5;
+    color: #00134f;
+    padding: 3%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+.contacttop {
+    text-align: center;
+    background-color: #71b4db;
+    padding: 3%;
+}
+
+.contact {
+    text-align: center;
+    background-color: #2494d5;
+    color: #111827;
+    padding: 3%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+img {
+    height: auto;
+    width: 49%;
+}
+
+.pregaleria {
+    text-align: center;
+    background-color: #84bedf;
+    color: #00134f;
+
+    padding: 1%;
+}
+
+.columnas{
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+    padding: 0%;
+    background-color: #a8dfff;
+    padding-right: 4%;
+    border-radius: 10px;
+}
+
+#lista{
+    text-align: left;
+}
+
+.galeria {
+    text-align: center;
+    background-color: #71b4db;
+    padding: 3%;
+
+}
+
+#general {
+    background-color: #c8e9fd;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.resalte{
+    color: #bdf7ff;
+}
+
+.boton{
+    background-color: #2494d5;
+    padding: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px;
+}
+
+.botonbottom{
+    background-color: #c8e9fd;
+    padding: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px;
+}
+
